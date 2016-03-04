@@ -1,0 +1,28 @@
+name: 'PHIL + SOPHY '
+favicon: null
+layout_spectrum: 0.8392004265915602
+typography_spectrum: 0.47971960343420506
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.898267915006727
+  lightness: 0.9363086407538503
+  saturation: 0.1608712887391448
+  rhythmicContrast: 0.6221260449383408
+purpose: []
